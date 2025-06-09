@@ -1,0 +1,22 @@
+# Ignore Power BI temporary files and cache
+*.temp.pbix
+*.pbix.cache
+/.pbi/
+
+# Ignore common Python build/dependency files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.pytest_cache/
+.vscode/ # Optional: If you don't want VS Code settings in git
+
+# Ignore large data files that are not part of the source code
+# (Only if you have very large CSVs that exceed GitHub's limits or are not meant for repo)
+# *.csv 
+
+# Ignore system files
+.DS_Store
+Thumbs.db
