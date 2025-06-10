@@ -53,7 +53,7 @@ The Power BI dashboard provides a dynamic view of car sales, allowing users to d
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/katlakavyasri/car-sales-dashboard-analysis.git](https://github.com/katlakavyasri/car-sales-dashboard-analysis.git)
+    https://github.com/katlakavyasri/car-sales-dashboard-analysis.git
     ```
 2.  **Open the Power BI Dashboard:**
     * Navigate to the cloned folder.
