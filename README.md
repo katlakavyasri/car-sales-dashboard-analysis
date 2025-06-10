@@ -34,20 +34,20 @@ The Power BI dashboard provides a dynamic view of car sales, allowing users to d
     * **Time Intelligence Metrics:** Dynamic MTD, YTD, and YoY calculations for Sales, Average Price, and Cars Sold, providing period-over-period performance insights.
 
 * **Sales & Price Trends:**
-    * **Average Price by Date:** A line chart showing price fluctuations over time (as seen in `image_532b2d.jpg`).
-    * **Total Sales by Year:** A bar chart visualizing sales volume across years (`image_532b2d.jpg`).
+    * **Average Price by Date:** A line chart showing price fluctuations over time (as seen in `image 1.jpg`).
+    * **Total Sales by Year:** A bar chart visualizing sales volume across years (`image 1.jpg`).
 
 * **Categorical Breakdowns:**
-    * **Average Price by Manufacturer:** Bar chart comparing average prices across different car manufacturers (`image_532b2d.jpg`).
-    * **Cars by Body Type:** Donut or pie chart showing the distribution of sales across different vehicle body types (`image_532b2d.jpg`).
-    * **Sales by State:** A map visualization indicating sales distribution across geographical regions (`image_532b2d.jpg`).
+    * **Average Price by Manufacturer:** Bar chart comparing average prices across different car manufacturers (`image 1.jpg`).
+    * **Cars by Body Type:** Donut or pie chart showing the distribution of sales across different vehicle body types (`image 1.jpg`).
+    * **Sales by State:** A map visualization indicating sales distribution across geographical regions (`image 1. jpg`).
 
 * **Advanced Analysis:**
-    * **Odometer by Price:** A scatter plot exploring the relationship between a car's odometer reading and its selling price (`image_532b2d.jpg`).
+    * **Sales by body and price_range:** A scatter plot exploring the relationship between a car's body reading and its price range (`image 1.jpg`).
     * **Key Influencers:** Visualizations that identify the factors (e.g., features, conditions) that influence sales outcomes.
 
 * **Detailed Views:**
-    * Dedicated tabs for `Details` and `Total Sales Details` provide granular data tables and further breakdowns by State, Price Range, and Manufacturer, allowing for deeper investigation (`image_532ad2.jpg`, `image_5327ea.jpg`).
+    * Dedicated tabs for `Details` and `Total Sales Details` provide granular data tables and further breakdowns by State, Price Range, and Manufacturer, allowing for deeper investigation (`image 2.jpg`, `image 3.jpg`).
 
 ## How to Explore the Project
 
